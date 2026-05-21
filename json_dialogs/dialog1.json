@@ -1,0 +1,8 @@
+{
+  "id": "rabit_dialog",
+  "type": "narrative",
+  "moves":[
+    {"type": "display", "file":  "image1.png"},
+    {"type": "say", "text": "Oh, look, a rabbit!"}
+  ]
+}
